@@ -1,0 +1,15 @@
+.place__link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: rgb(255 255 255);
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.7s;
+}
+.place__link:hover {
+    opacity: 0.8;
+    transition-property: opacity;
+    transition-duration: 0.3s;
+}

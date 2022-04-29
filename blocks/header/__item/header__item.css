@@ -1,0 +1,6 @@
+.header__item {
+    list-style: none;
+}
+.header__item:first-of-type {
+    margin-right: 18px;
+}

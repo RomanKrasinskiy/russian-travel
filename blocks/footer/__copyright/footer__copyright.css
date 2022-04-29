@@ -1,0 +1,22 @@
+.footer__copyright {
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.7s;
+}
+.footer__copyright:hover {
+    opacity: 0.5;
+    transition-property: opacity;
+    transition-duration: 0.7s;
+}
+@media screen and (max-width: 767px) {
+    .footer__copyright {
+        line-height: 14px;
+        text-align: start;
+    }
+}
