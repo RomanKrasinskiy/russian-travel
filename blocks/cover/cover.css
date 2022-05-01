@@ -8,6 +8,7 @@
         width: 100%;
     }
 }
+
 @media screen and (max-width: 767px) {
     .cover {
         margin: 66px auto 0;
